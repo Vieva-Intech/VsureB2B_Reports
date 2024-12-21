@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VSureB2b_Reports.props" />
+</Project>

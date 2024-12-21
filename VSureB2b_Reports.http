@@ -1,0 +1,6 @@
+@VSureB2b_Reports_HostAddress = http://localhost:5051
+
+GET {{VSureB2b_Reports_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

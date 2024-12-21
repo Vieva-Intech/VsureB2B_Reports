@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\importexport\\utility1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:importexport\\utility1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\control\\webapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:control\\webapimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\controllers\\rfqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:controllers\\rfqreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\facades\\vsureb2bfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:facades\\vsureb2bfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\bo\\vsureb2b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:bo\\vsureb2b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\base\\dq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:base\\dq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\base\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:base\\baseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\exception\\webservicecalllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:exception\\webservicecalllog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\vsureb2b_reports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:vsureb2b_reports.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\bo\\webservicelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:bo\\webservicelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\models\\rfqresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:models\\rfqresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|c:\\users\\sony\\source\\repos\\vsureb2b_reports\\models\\rfqrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50050D5E-4F6A-4B77-8628-FDE37DEF1292}|VSureB2b_Reports.csproj|solutionrelative:models\\rfqrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility1.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\ImportExport\\Utility1.cs",
+              "RelativeDocumentMoniker": "ImportExport\\Utility1.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\ImportExport\\Utility1.cs",
+              "RelativeToolTip": "ImportExport\\Utility1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:20:08.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RFQReportController.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Controllers\\RFQReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RFQReportController.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Controllers\\RFQReportController.cs",
+              "RelativeToolTip": "Controllers\\RFQReportController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:05:02.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebAPIManager.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Control\\WebAPIManager.cs",
+              "RelativeDocumentMoniker": "Control\\WebAPIManager.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Control\\WebAPIManager.cs",
+              "RelativeToolTip": "Control\\WebAPIManager.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAawH8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:31:44.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseObject.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Base\\BaseObject.cs",
+              "RelativeDocumentMoniker": "Base\\BaseObject.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Base\\BaseObject.cs",
+              "RelativeToolTip": "Base\\BaseObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:04:16.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebServiceCallLog.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Exception\\WebServiceCallLog.cs",
+              "RelativeDocumentMoniker": "Exception\\WebServiceCallLog.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Exception\\WebServiceCallLog.cs",
+              "RelativeToolTip": "Exception\\WebServiceCallLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:26:25.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T12:14:35.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VSureb2bFacade.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Facades\\VSureb2bFacade.cs",
+              "RelativeDocumentMoniker": "Facades\\VSureb2bFacade.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Facades\\VSureb2bFacade.cs",
+              "RelativeToolTip": "Facades\\VSureb2bFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:42:54.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:14:27.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DQ.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Base\\DQ.cs",
+              "RelativeDocumentMoniker": "Base\\DQ.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Base\\DQ.cs",
+              "RelativeToolTip": "Base\\DQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:59:29.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VSureb2b.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\BO\\VSureb2b.cs",
+              "RelativeDocumentMoniker": "BO\\VSureb2b.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\BO\\VSureb2b.cs",
+              "RelativeToolTip": "BO\\VSureb2b.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T06:31:44.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VSureB2b_Reports.csproj",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\VSureB2b_Reports.csproj",
+              "RelativeDocumentMoniker": "VSureB2b_Reports.csproj",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\VSureB2b_Reports.csproj",
+              "RelativeToolTip": "VSureB2b_Reports.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T12:17:47.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebServiceLog.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\BO\\WebServiceLog.cs",
+              "RelativeDocumentMoniker": "BO\\WebServiceLog.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\BO\\WebServiceLog.cs",
+              "RelativeToolTip": "BO\\WebServiceLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:16:24.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RFQResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Models\\RFQResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\RFQResponseModel.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Models\\RFQResponseModel.cs",
+              "RelativeToolTip": "Models\\RFQResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:33:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RFQRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Models\\RFQRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\RFQRequestModel.cs",
+              "ToolTip": "C:\\Users\\SONY\\source\\repos\\VSureB2b_Reports\\Models\\RFQRequestModel.cs",
+              "RelativeToolTip": "Models\\RFQRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:32:28.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
